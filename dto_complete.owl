@@ -16,7 +16,7 @@
          xmlns:dto="http://www.drugtargetontology.org/dto/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <owl:Ontology rdf:about="http://www.drugtargetontology.org/dto/dto_complete.owl%23">
+    <owl:Ontology rdf:about="http://www.drugtargetontology.org/dto/dto_complete.owl%20">
         <owl:imports rdf:resource="http://www.drugtargetontology.org/dto/dto_automated_axioms.owl"/>
         <owl:imports rdf:resource="http://www.drugtargetontology.org/dto/dto_external.owl"/>
         <owl:imports rdf:resource="http://www.drugtargetontology.org/dto/dto_core.owl"/>
