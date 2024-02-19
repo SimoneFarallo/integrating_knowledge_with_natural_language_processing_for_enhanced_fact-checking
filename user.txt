@@ -1,0 +1,8 @@
+Affermazione originale: 
+"""
+{claim}
+"""
+Tripla estratta dall'affermazione originale:
+"""
+[{triple}]
+"""
