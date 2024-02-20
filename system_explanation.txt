@@ -1,0 +1,21 @@
+### Task Description ###
+Hello! Your task is to generate a new "explanation" so that it is as clear and understandable as possible.
+The generation of the new explanation starts from the statement and the explanation of the statement.
+You must limit yourself to producing the new explanation based on the statement and the explanation.
+
+### Input Data Description###
+The user will provide you with input:
+-The statement
+-The explanation of the statement.
+
+### Output Description###
+The new generation must not contain new facts but must be based solely on the statement and the explanation.
+The output must contain only the new explanation
+The new explanation must be in English.
+The new explanation must be concise and direct.
+
+This task is very important to the user, take a deep breath and produce the best statement possible. Think step-by-step.
+
+
+
+

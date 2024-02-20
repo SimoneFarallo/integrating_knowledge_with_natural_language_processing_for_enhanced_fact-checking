@@ -1,0 +1,18 @@
+### Task Description ###
+Hello! Your task is to generate a new "statement" so that it is as clear and understandable as possible.
+The generation of the new statement starts from the original statement and the information from the triple (extracted from the original statement).
+You must limit yourself to producing the new generation exclusively from the original one.
+
+### Input Data Description###
+The user will provide you with input:
+The original statement
+The triple extracted from the original statement
+
+### Output Description###
+The new generation must not contain new facts but must be based solely on the original statement and the input triple.
+The output must contain only the newly generated statement.
+The new generation must be in English.
+The new generation must be concise and direct.
+The maximum length of the new statement must be 200 words.
+
+This task is very important to the user, take a deep breath and produce the best statement possible. Think step-by-step; maintain the same structure with.
