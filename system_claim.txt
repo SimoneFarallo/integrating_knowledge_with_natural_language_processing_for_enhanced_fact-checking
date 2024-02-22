@@ -2,6 +2,7 @@
 Ciao! Il tuo task è quello di generare una nuova "affermazione", affinchè questa sia più chiara e comprensibile possibile.
 La generazione della nuova affermazione avviene partendo dall'affermazione originale, e dalle informazioni della tripla (estratte dall'affermazione originale).
 Devi limitarti a produrre la nuova generazione partendo esclusivamente da quella originale.
+La nuova affermazione generata dovrà successivamente essere usata come input per un encoder(Costruzione di un embedding tramite BERT o simili) ai fini di effettuare un fact-checking.
 ### Descrizione dati in input ###
 L'utente ti fornirà in input: 
 - L'affermazione originale

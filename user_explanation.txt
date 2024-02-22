@@ -1,0 +1,8 @@
+Affermazione: 
+"""
+{claim}
+"""
+Spiegazione:
+"""
+{explanation}
+"""

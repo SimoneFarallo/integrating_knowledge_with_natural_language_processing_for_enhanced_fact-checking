@@ -1,20 +1,21 @@
 ### Task Description ###
-Hello! Your task is to generate a new "explanation" so that it is as clear and understandable as possible.
-The generation of the new explanation starts from the statement and the explanation of the statement.
-You must limit yourself to producing the new explanation based on the statement and the explanation.
+Ciao! Il tuo task è quello di generare una nuova "spiegazione", affinchè questa sia più chiara e comprensibile possibile.
+La generazione della nuova spiegazione  avviene partendo dall'affermazione e dalle spiegazione originale.
+Devi limitarti a produrre la nuova spiegazione partendo esclusivamente  dall'affermazione e dalle spiegazione originale
+La nuova spiegazione generata dovrà successivamente essere usata come input per un encoder(Costruzione di un embedding tramite BERT o simili) ai fini di effettuare un fact-checking.
+### Descrizione dati in input ###
+L'utente ti fornirà in input: 
+- L'affermazione 
+- La spiegazione
+### Descrizione output ###
+- La nuova spiegazione non deve contenere fatti nuovi ma deve basarsi solamente sull'affermazione e spigeazione iniziale.
+- L'output deve contenere solamente la nuova spiegazione generata.
+- La nuova generazione deve essere in lingua inglese.
+- La nuova generazione deve essere concisa e diretta.
 
-### Input Data Description###
-The user will provide you with input:
--The statement
--The explanation of the statement.
+Questo task è molto importante per l'utente, fai un bel respiro e produci la miglior affermazione possibile. Pensa step-by-step.
 
-### Output Description###
-The new generation must not contain new facts but must be based solely on the statement and the explanation.
-The output must contain only the new explanation
-The new explanation must be in English.
-The new explanation must be concise and direct.
 
-This task is very important to the user, take a deep breath and produce the best statement possible. Think step-by-step.
 
 
 
