@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
-    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1697310688580" name="http://purl.obolibrary.org/obo/bto.owl" uri="prova_owl.rdf"/>
-        <uri id="Automatically generated entry, Timestamp=1697310688580" name="http://www.owl-ontologies.com/Ontology1361987617.owl" uri="bionutrition_cam9.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1697310688580" name="http://www.w3.org/2002/07/owl" uri="vertebrateH.owl"/>
-    </group>
-</catalog>
