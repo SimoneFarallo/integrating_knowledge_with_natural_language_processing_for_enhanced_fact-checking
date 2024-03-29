@@ -8,3 +8,6 @@ Furthermore, this thesis places a strong emphasis on the principle of explainabi
 
 Through empirical evaluation across a range of original and generated claims, the study demonstrates the adaptability and precision of the proposed hybrid model, showcasing its capability to navigate the intricate challenges posed by the digital information ecosystem. The results highlight not only the technological advancements achieved but also the critical need for ongoing innovation in the fight against misinformation. 
 This thesis contributes to the field of automated fact-checking by developing a framework that combines computational techniques with a focus on AI practices. It establishes a basis for further research to enhance the precision, efficiency, and clarity of automated fact-checking systems, signifying a notable development in pursuing accuracy in the digital era.
+
+NB: the code is not optimized, the comments are in Italian, and it was not made for publication; there may be errors.
+If you want to read the thesis, email me.
