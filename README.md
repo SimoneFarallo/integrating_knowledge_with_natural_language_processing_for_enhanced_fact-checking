@@ -1,4 +1,4 @@
-INTEGRATING KNOWLEDGE WITH NATURAL LANGUAGE PROCESSING FOR ENHANCED FACT-CHECKING
+**INTEGRATING KNOWLEDGE WITH NATURAL LANGUAGE PROCESSING FOR ENHANCED FACT-CHECKING**
 
 In the digital age, where the proliferation of information intersects with the rise of sophisticated digital platforms, the challenge of distinguishing between fact and fiction has become a pivotal concern. This thesis addresses the critical issue of misinformation and disinformation through the development and evaluation of advanced automated fact-checking systems \citep{NLPFactCheck}. 
 Leveraging state-of-the-art Natural Language Processing techniques, Large Language Models, and Graph-based analytics, this research introduces novel methodologies aimed at enhancing the accuracy, reliability, and explainability of fact-checking mechanisms.
